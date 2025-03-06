@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a frontend application built with Vue.js. This README will guide you through the steps to .
+This is a frontend application built with Vue.js. This README will guide you through the steps to . Authors: Karoliina Kannik, Aet-Kadi Kald, Faina Dõmša.
 
 ## Project introduction
 
